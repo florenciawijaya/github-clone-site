@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#git-logo {
+    display: inline-block;
+    margin: 50px;
+    background-color: black;
+}
+
+.image {
+    margin: 0px;
+}
+
+.header-repo {
+    color: blue;
+}
+
+.split {
+    display: flex;
+    flex-direction: row;
+}
+
+.div-readme {
+    width: 60%;
+    height: auto;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    overflow: scroll;
+}
+
+.div-others {
+    width: 40%;
+    padding: 20px;
+}
+
+#license-logo {
+    display: inline-block;
+}
+
+#license {
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: -100px;
+}
+
+.top-200 {
+    margin-top: 200px;
+}
+
+.repo-name {
+    margin: 30px;
+    margin-bottom: -150px;
+    font-weight: normal;
+}
+
+ .markdown-readme {
+     margin-top: 20px;
+     padding-left: 20px;
+ }

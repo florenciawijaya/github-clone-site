@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#git-logo {
+    display: inline-block;
+    margin: 50px;
+}
+
+#search-form {
+    margin: -90px 150px;
+}
+
+.div-search {
+    width: 75%;
+    margin: 100px;
+}
+
+input {
+    width: 500px;
+    height: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.pagination {
+    padding: 10px;
+    margin: 20px;
+}
